@@ -1,9 +1,9 @@
 # Exno.10-Prompt-Engg
 ## Register no:212222230171
-# Aim:
+## Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-# Algorithm:  
+## Algorithm:  
 - Step 1: Define Content Type & Audience
 Identify what you're creating (report, story, documentation, etc.) and specify your exact audience with their needs, skill level, and decision-making context.
 - Step 2: Choose Appropriate Framework
@@ -226,5 +226,5 @@ Include:
 
 ![image](https://github.com/user-attachments/assets/dc4f2bde-78cc-4c50-b49e-d2b59923b19d)
 
-# Result :  
+## Result :  
 The corresponding prompt executed successfully.
